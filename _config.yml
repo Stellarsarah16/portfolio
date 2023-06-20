@@ -3,8 +3,8 @@ title: Artist/Coder/Designer
 email: sarahrocksu@gmail.com
 description: > # keep this and put description below
   Multifaceted Artist focusd on abstraction, Programmer with interests in procecural geometry and shaders.
-url: "https://stellarsarah.github.io" # the base hostname & protocol for your site
-linkedin_url: "https://www.linkedin.com/in/stellarsarah16"
+url: https://stellarsarah.github.io # the base hostname & protocol for your site
+# linkedin_url: "https://www.linkedin.com/in/stellarsarah16"
 github_username: stellarsarah16
 twitter_username: stellarsarah16
 footer_text: "This site uses <a href='https://github.com/gamingportfolio/urban-theme-portfolio'>urban-theme (portfolio)</a>."
