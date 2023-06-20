@@ -1,4 +1,5 @@
 # Site settings
+theme: metadata
 title: Artist/Coder/Designer
 email: sarahrocksu@gmail.com
 description: > # keep this and put description below
